@@ -14,6 +14,7 @@
 
     <modules>
         <module>ch1-hello</module>
+        <module>ch2-aop</module>
     </modules>
 
     <build>

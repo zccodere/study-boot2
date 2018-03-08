@@ -9,3 +9,9 @@
 <p>
 Hello Spring Boot 示例、使用热部署、添加REST支持
 </p>
+
+### 2018-2018030802：02-ch2-aop<br>
+第二章《Spring Boot 基础》学习源码
+<p>
+在 Spring Boot 中使用 AOP
+</p>
