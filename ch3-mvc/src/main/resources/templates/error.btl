@@ -1,0 +1,15 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>错误</title>
+</head>
+<body>
+<%
+%>
+<h2>ErrorCode:${status}</h2>
+<h5>Message:${errorMessage}</h5>
+<h5>Message:${message}</h5>
+
+<i>此错误信息来自 error.btl文件，通过ErrorController.java统一处理</i>
+</body>
+</html>
