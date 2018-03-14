@@ -6,9 +6,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
+ * <br>
+ * 标题: Hello控制器<br>
+ * 描述: 简单演示<br>
+ *
  * @author zc
- * @title Hello控制器
- * @describe 简单演示
  * @date 2018/03/08
  **/
 @Controller

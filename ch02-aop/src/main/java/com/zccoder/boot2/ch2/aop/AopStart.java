@@ -4,11 +4,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
+ * <br>
+ * 标题: 启动类<br>
+ * 描述: 在 Spring Boot 中使用 AOP<br>
+ *
  * @author zc
- * @title 启动类
- * @describe 在 Spring Boot 中使用 AOP
  * @date 2018/03/08
- **/
+ */
 @SpringBootApplication
 public class AopStart {
 

@@ -8,11 +8,13 @@ import org.springframework.context.annotation.Configuration;
 import java.util.Arrays;
 
 /**
+ * <br>
+ * 标题: AOP 切面类<br>
+ * 描述: 在调用目标方法前后输出日志<br>
+ *
  * @author zc
- * @title AOP 切面类
- * @describe 在调用目标方法前后输出日志
  * @date 2018/03/08
- **/
+ */
 @Configuration
 @Aspect
 public class AopConfig {
