@@ -15,7 +15,7 @@
     <modules>
         <module>ch01-hello</module>
         <module>ch02-aop</module>
-        <module>ch3-mvc</module>
+        <module>ch03-mvc</module>
     </modules>
 
     <build>
