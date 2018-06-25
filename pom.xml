@@ -17,6 +17,7 @@
         <module>ch02-aop</module>
         <module>ch03-mvc</module>
         <module>ch04-view</module>
+        <module>ch05-data</module>
     </modules>
 
     <build>
