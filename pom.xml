@@ -18,6 +18,7 @@
         <module>ch03-mvc</module>
         <module>ch04-view</module>
         <module>ch05-data</module>
+        <module>ch06-jpa</module>
     </modules>
 
     <build>

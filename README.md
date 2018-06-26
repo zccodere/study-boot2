@@ -34,3 +34,8 @@ Beetl 模版引擎、JSON 技术
 Spring JDBC Template、Beetl SQL
 </p>
 
+### 2018-2018062601：06-ch06-jpa<br>
+第六章《Spring Data JPA》学习源码
+<p>
+Spring Data JPA
+</p>
