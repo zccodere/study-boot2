@@ -45,3 +45,9 @@ Spring Data JPA
 <p>
 Spring Boot 自动配置
 </p>
+
+### 2018-2018092102：08-ch08-deploy<br>
+第八章《部署 Spring Boot 应用》学习源码
+<p>
+jar包运行、war包部署、多环境部署、@Profile注解
+</p>

@@ -20,6 +20,7 @@
         <module>ch05-data</module>
         <module>ch06-jpa</module>
         <module>ch07-config</module>
+        <module>ch08-deploy</module>
     </modules>
     
     <build>
