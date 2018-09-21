@@ -19,6 +19,7 @@
         <module>ch04-view</module>
         <module>ch05-data</module>
         <module>ch06-jpa</module>
+        <module>ch07-config</module>
     </modules>
     
     <build>

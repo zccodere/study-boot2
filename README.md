@@ -39,3 +39,9 @@ Spring JDBC Template、Beetl SQL
 <p>
 Spring Data JPA
 </p>
+
+### 2018-2018092101：07-ch07-config<br>
+第七章《Spring Boot 配置》学习源码
+<p>
+Spring Boot 自动配置
+</p>
