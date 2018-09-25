@@ -21,6 +21,7 @@
         <module>ch06-jpa</module>
         <module>ch07-config</module>
         <module>ch08-deploy</module>
+        <module>ch09-test</module>
     </modules>
     
     <build>

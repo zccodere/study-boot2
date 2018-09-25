@@ -51,3 +51,9 @@ Spring Boot 自动配置
 <p>
 jar包运行、war包部署、多环境部署、@Profile注解
 </p>
+
+### 2018-2018092501：09-ch09-test<br>
+第九章《Testing 单元测试》学习源码
+<p>
+Spring Boot 单元测试、Mockito、面向数据库应用的单元测试
+</p>
