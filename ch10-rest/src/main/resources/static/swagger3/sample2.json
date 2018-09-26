@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "这是一个项目简单实例",
+        "version": "1.0",
+        "title": "某系统接口",
+       
+    },
+    
+    "basePath": "/api/v1"
+}

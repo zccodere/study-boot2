@@ -57,3 +57,9 @@ jar包运行、war包部署、多环境部署、@Profile注解
 <p>
 Spring Boot 单元测试、Mockito、面向数据库应用的单元测试
 </p>
+
+### 2018-2018092601：10-ch10-rest<br>
+第十章《Rest》学习源码
+<p>
+Spring Boot 集成 Rest
+</p>

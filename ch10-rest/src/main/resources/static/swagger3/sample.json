@@ -1,0 +1,87 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "这是一个项目简单实例",
+        "version": "1.0",
+        "title": "某系统接口",
+       
+    },
+    
+    "basePath": "/api/v1",
+   
+	"paths": {
+	    "/order/{orderId}": {
+            "get": {
+               
+                "summary": "获取订单详细信息",
+                "description": "传入订单编号，获取订单信息",
+               
+                "parameters": [
+                    {
+                        "name": "orderId",
+                        "in": "path",
+                        "description": "订单id",
+                        "required": true,
+                       
+                    },
+                    {
+                        "name": "username",
+                        "in": "params",
+                        "description": "订单id",
+                        "required": true,
+                       
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "获取用户信息成功"
+                        
+                    }
+                }
+                
+            }
+        },
+        "/order":{
+        		"post":{
+        			"summary": "创建订单",
+                "description": "创建一个新的订单",
+               
+                "parameters": [
+                    {
+                        "name": "order",
+                        "in": "body",
+                        "description": "包含订单信息的json",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/order"
+                        }
+                       
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "创建订单成功"
+                        
+                    }
+                }
+        		}
+        }
+        
+	 },
+	  "definitions": {
+        "order": {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "string",
+                    
+                },
+                "name": {
+                    "type": "string",
+                    
+                }
+               
+            }
+        }
+      }
+}
