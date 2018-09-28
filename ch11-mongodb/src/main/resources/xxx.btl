@@ -1,0 +1,8 @@
+<%
+var a = 1;
+var b = getDbValue("客户表","盈利");
+if(c==2){
+	print(a*23).ccc;
+}
+
+%>

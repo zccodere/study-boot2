@@ -23,6 +23,7 @@
         <module>ch08-deploy</module>
         <module>ch09-test</module>
         <module>ch10-rest</module>
+        <module>ch11-mongodb</module>
     </modules>
     
     <build>
