@@ -70,3 +70,10 @@ Spring Boot 集成 Rest
 Spring Boot 集成 MongoDB
 </p>
 
+### 2018-2018092802：12-ch12-redis<br>
+第十二章《Redis》学习源码
+<p>
+Spring Boot 集成 Redis
+</p>
+
+
