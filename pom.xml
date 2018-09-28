@@ -25,6 +25,7 @@
         <module>ch10-rest</module>
         <module>ch11-mongodb</module>
         <module>ch12-redis</module>
+        <module>ch13-elasticsearch</module>
     </modules>
     
     <build>
