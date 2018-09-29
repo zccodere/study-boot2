@@ -27,6 +27,7 @@
         <module>ch12-redis</module>
         <module>ch13-elasticsearch</module>
         <module>ch14-cache</module>
+        <module>ch15-session</module>
     </modules>
     
     <build>
