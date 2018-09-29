@@ -94,3 +94,8 @@ Spring Boot 集成 Elasticsearch
 使用Spring Session
 </p>
 
+### 2018-2018092903：16-ch16-zookeeper<br>
+第十六章《Spring Boot 与 Zookeeper》学习源码
+<p>
+实现分布式锁、服务注册与服务发现
+</p>

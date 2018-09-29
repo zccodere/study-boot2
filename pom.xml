@@ -28,6 +28,7 @@
         <module>ch13-elasticsearch</module>
         <module>ch14-cache</module>
         <module>ch15-session</module>
+        <module>ch16-zookeeper</module>
     </modules>
     
     <build>
