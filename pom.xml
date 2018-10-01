@@ -29,6 +29,7 @@
         <module>ch14-cache</module>
         <module>ch15-session</module>
         <module>ch16-zookeeper</module>
+        <module>ch17-monitor</module>
     </modules>
     
     <build>
